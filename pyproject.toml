@@ -41,7 +41,7 @@ dependencies = [
     "neo4j==5.23.0",
     "camel-ai==0.2.90",
     "requests-oauthlib==2.0.0",
-    "mcp==1.29.0",
+    "mcp==1.30.0",
 ]
 
 [project.urls]
